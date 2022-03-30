@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeArchExampleForTeam</string>
+    <string name="new_task">NEW TASK</string>
+    <string name="categories">Categories</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="Add">ADD</string>
+</resources>
